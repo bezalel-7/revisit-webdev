@@ -9,7 +9,7 @@ provides external resources for further exploration of Linus Torvalds' work, suc
 
 ## Preview
 
-![Screenshot of the Tribute Page](html/Linus_website/Screenshot.png)
+![Screenshot of the Tribute Page](./Screenshot.png)
 
 Check out the live website: [Linus Torvalds Tribute Page](https://bezalel-7.github.io/revisit-webdev/html/Linus_website/Linus_Torvalds.html)
 
