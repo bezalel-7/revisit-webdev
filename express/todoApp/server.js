@@ -14,7 +14,6 @@ const PORT = process.env.PORT || 4000
 const todoRoutes = require('./routes/todo')
 
 //mount the todo API routes
-
 app.use('/api/v1', todoRoutes)
 
 //start server
